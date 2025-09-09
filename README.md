@@ -39,5 +39,3 @@ This project is actively maintained by Sai Kiran Reddy Kondreddygari.
 Sai Kiran is a Data Engineer with 3+ years of experience in building scalable data pipelines and enabling real-time analytics. His skills include Python, SQL, and working with technologies like Apache Flink and Kafka, which are central to this demo.
 
 *   **Contact:** kondreddygarisaikiranreddy18@gmail.com
-*   **LinkedIn:** Sai Kiran Reddy Kondreddygari
-*   **GitHub:** Sai Kiran Reddy Kondreddygari
